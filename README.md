@@ -1,2 +1,2 @@
 # TelaLogin
- Replicando tela de login
+ Replicando tela simples de login em HTML com Visual Studio Code.
